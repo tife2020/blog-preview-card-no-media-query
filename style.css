@@ -28,6 +28,8 @@ body {
   padding: var(--spacing200);
 }
 
+
+
 .card {
   max-width: 336px;
   background: var(--White);
